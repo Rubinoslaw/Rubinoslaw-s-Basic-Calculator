@@ -12,3 +12,6 @@ You can perform the following math operations here:
 Why you should use my calculator? In many basic calculators you can perform only four first of them, but in mine u can also perform exponentiation and floor division!
 
 ## THIS CALCULATOR FEATURES NO GUI!
+
+## What's new?
+- Added floor division!
