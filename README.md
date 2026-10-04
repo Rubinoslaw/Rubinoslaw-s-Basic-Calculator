@@ -7,7 +7,8 @@ You can perform the following math operations here:
 3. Multiplication
 4. Division
 5. Exponentiation
+6. Floor Division
 
-Why you should use my calculator? In many basic calculators you can perform only four first of them, but in mine u can also perform exponentiation!
+Why you should use my calculator? In many basic calculators you can perform only four first of them, but in mine u can also perform exponentiation and floor division!
 
 ## THIS CALCULATOR FEATURES NO GUI!
